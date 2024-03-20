@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "../src/assets/work/1.jpg",
+    "image": "https://i.ibb.co/8MdThs5/1.jpg",
     "title": "reals real estate modern website design and development",
     "keyw1": "Web Development",
     "keyw2": "UI/UX Design",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "../src/assets/work/2.jpg",
+    "image": "https://i.ibb.co/ByBhZcX/2.jpg",
     "title": "modern medical website dashboard redesign",
     "keyw1": "Web Development",
     "keyw2": "UI/UX Design",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "../src/assets/work/3.jpg",
+    "image": "https://i.ibb.co/hX69yYt/3.jpg",
     "title": "internet service provider app UI Design,ISP mobile app",
     "keyw1": "Web Development",
     "keyw2": "UI/UX Design",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": "../src/assets/work/4.jpg",
+    "image": "https://i.ibb.co/0yfhvWj/4.jpg",
     "title": "bangladesh korea institute of it  Apps UI/UX design using figma ",
     "keyw1": "Web Development",
     "keyw2": "UI/UX Design",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "../src/assets/work/5.jpg",
+    "image": "https://i.ibb.co/vYpBrF0/5.jpg",
     "title": "NFT landing page UI/UX  design using Figma",
     "keyw1": "Web Development",
     "keyw2": "UI/UX Design",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "image": "../src/assets/work/6.jpg",
+    "image": "https://i.ibb.co/d6RRHFL/6.jpg",
     "title": "finance mobile application UI/UX Design using figma",
     "keyw1": "Web Development",
     "keyw2": "UI/UX Design",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "image": "../src/assets/work/7.jpg",
+    "image": "https://i.ibb.co/gttw6yz/7.jpg",
     "title": "Ecommerce website figma tamplate",
     "keyw1": "eCommerce",
     "keyw2": "UI/UX Design",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "image": "../src/assets/work/8.jpg",
+    "image": "https://i.ibb.co/277Z7ZM/8.jpg",
     "title": "skin & beauty care app UI/UX design using figma",
     "keyw1": "Beauty care",
     "keyw2": "UI/UX Design",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "image": "../src/assets/work/9.jpg",
+    "image": "https://i.ibb.co/L0R3T84/9.jpg",
     "title": "Reals real estate website figma tamplate",
     "keyw1": "Real estate",
     "keyw2": "UI/UX Design",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "image": "../src/assets/work/10.jpg",
+    "image": "https://i.ibb.co/09QGp0V/10.jpg",
     "title": "skin & beauty care app UI/UX design using figma",
     "keyw1": "Portfolio",
     "keyw2": "UI/UX Design",
